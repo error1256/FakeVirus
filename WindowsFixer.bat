@@ -46,10 +46,12 @@ echo '
 echo '
 echo '
 echo '
-echo Sorry to Who I sent this to,
-echo this is a fake virus to waste your time 
-echo btw, I am in progress of making virusus rn so don't trust any .bat files I send  :)
+echo Imagine Being Trolled, Couldn't Be Me.
+echo Now enjoy the creators gun.lol account
 echo https://guns.lol/errorC003C004
+echo '
+echo '
+echo '
 echo Input 1 to Quit
 set /p input=">>"
 if %input% EQU 1 goto quit
