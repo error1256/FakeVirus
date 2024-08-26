@@ -1,7 +1,7 @@
 @echo off
 :menu
 echo.
-echo Press 1 then Enter to Download the Stand Menu, Made by _errorC003C004
+echo Press 1 then Enter to Download the Stand Menu, Made by error1256
 echo 1) Install Menu
 echo 2) Options
 set /p input=">>"
