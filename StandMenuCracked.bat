@@ -3,7 +3,7 @@
 
 ::Hi Whoever I Sent this To.
 ::I hope you enjoy what I Made
-::Just go to temp and go to startup to delete files
+::Just go to temp and go to startup to delete files of real virus (If I sent you that)
 
 
 
